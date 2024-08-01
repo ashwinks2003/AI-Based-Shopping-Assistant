@@ -26,4 +26,3 @@ Run the main file
 python3 main.py
 To increse the database, add more files to Database
 
-Output
